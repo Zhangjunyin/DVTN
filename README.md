@@ -11,8 +11,9 @@ Download some public datasets (e.g. CDnet2014 and CAMO-UOW datasets) on your own
 run demo.m
 
 # Trained Model
-* DVTN_thermal_library <br>
-* DVTN_badWeather_skating <br>
+* ![DVTN_thermal_library] <br>
+* ![DVTN_badWeather_skating] <br>
+
 The above trained models can also be downloaded from ![Baidu]() (access code: DVTN74).
 
 
